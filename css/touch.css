@@ -1,0 +1,121 @@
+			body {
+				/*background: #252525;*/
+				overflow-x: hidden;
+			}
+			
+			a:hover {
+				color: #a7a7a7;
+			}
+			a:link{
+				color: #ff8000;
+			}
+			.navbar{
+				margin-bottom: 0;
+			}
+			
+			.table>tbody>tr>td {
+				text-align: center;
+				font-size: 15px;
+				line-height: 15px;
+				vertical-align: middle;
+			}
+			.pre-scrollable{
+				max-height: 360px;
+			}
+			.tr1{
+				background-color: #D1D7E7;
+			}
+			.tr2{
+				background-color: #EDF0F5;
+			}
+			
+			th {
+				text-align: center;
+				font-size: 16px;
+				line-height: 16px;
+				background: #D1D7E7;
+			}
+			#td-1{
+				/*background: #66cc66;*/
+				height: 39px;
+				width: 150px;
+			}
+			#td-3{
+				/*background: #66cc66;*/
+				width: 120px;
+			}
+			
+			li {				
+				margin-right: 20px;
+			}
+			
+			.table {
+				margin-bottom: 5px;
+			}
+			.StatusMonitor-ul>li{
+				margin-bottom: 30px;
+			}
+			.StatusMonitor-ul>li>div>span{
+				padding-right: 10px;
+				font-size: 18px;
+				line-height: 18px;
+			}			
+			
+			
+			.monitor-btn{
+				margin: 10px 0;
+			}
+			
+			/*#vmiddle {
+				vertical-align: middle;
+				width: 20%;
+			}*/
+			.Maintain-table>tbody>tr>td{
+				padding: 1px 1px 1px 8px;
+			}
+			.system-1>thead>tr>th{
+				padding: 7px;
+			}
+			
+			
+			/*.panel{
+				border: hidden;
+			}		*/
+			/*.panel-heading {
+				background: #eeeeee;
+				border-radius: 0;
+				border-color: #eeeeee;
+			}*/
+			
+			/*.panel-title {
+				font-size: 19px;
+				line-height: 19px;
+				color: #3399ff;
+			}*/
+			
+			/*.panel-body {
+				background: #EEEEEE;
+			}*/
+			
+			.nav-simple {
+				height: 60px;
+				line-height: 60px;
+				background: #252525;
+				width: 94%;
+				float: right;
+				z-index: 2;
+			}
+			
+			.nav-simple .logo {
+				font-size: 24px;
+				font-weight: bold;
+				color: #e4eaec;
+			}
+			.login {
+				font-size: 18px;
+				font-weight: bold;
+				color: #fff;
+			}
+			#HomeStatisDiv>button{
+				font-size: 20px;
+			}

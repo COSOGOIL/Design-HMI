@@ -1,0 +1,29 @@
+[{
+    "ID": 1,
+    "WellName": "J01-001",
+    "WellSite": "JC001井场",
+    "DriverName":"JC001井场驱动.01",
+    "LiftingType":"抽油机",
+    "CrudeOilDensity": 0.88,
+    "WaterDensity": 1,
+    "NaturalGasRelativeDensity": 0.7,
+    "SaturationPressure":9.6,
+    "ReservoirDepth":2854,
+    "ReservoirTemperature":113.39,
+    "NameplateStroke":3,
+    "ForearmLength":4
+},{
+    "ID": 2,
+    "WellName": "J01-002",
+    "WellSite": "JC001井场",
+    "DriverName":"JC001井场驱动.02",
+    "LiftingType":"抽油机",
+    "CrudeOilDensity": 0.86,
+    "WaterDensity": 1,
+    "NaturalGasRelativeDensity": 0.7,
+    "SaturationPressure":9.7,
+    "ReservoirDepth":1523,
+    "ReservoirTemperature":96.23,
+    "NameplateStroke":3,
+    "ForearmLength":4
+}]

@@ -1,0 +1,22 @@
+[{
+    "ID": 1,
+    "driverName": "JC001井场驱动",
+    "driverCode": "JC001OPC",
+    "driverType": "OPC",
+    "driverParam": "192.168.1.180:18001"
+},
+{
+    "ID": 2,
+    "driverName": "JC002井场驱动",
+    "driverCode": "JC002OPC",
+    "driverType": "OPC",
+    "driverParam": "192.168.1.190:18001"
+},
+ {
+    "ID": 3,
+    "driverName": "JC003井场驱动",
+    "driverCode": "JC001RTU",
+    "driverType": "MODBUS-RTU",
+    "driverParam": "192.168.1.120:18001"
+}
+]
